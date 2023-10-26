@@ -1,5 +1,4 @@
-'''
-This code makes the game snake in a window. The constant variables defined first can be changed to adjust the game settings. 
+'''This code makes the game snake in a window. The constant variables defined first can be changed to adjust the game settings. 
 Snake is a game where you eat food objects to grow the body by 1 square every time.
 Input: Turning via 'arrow keys' or 'WASD'. 
 Output: A window that can play the game snake
